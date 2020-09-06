@@ -8,3 +8,7 @@ devtools::install_github("https://github.com/jan-imbi/UncoupledIsoReg")
 ```
 
 into the console.
+
+Check out an example here:
+
+https://jan-imbi.github.io/UncoupledIsoReg/
