@@ -3,7 +3,7 @@ pkgdown: 2.0.1
 pkgdown_sha: ~
 articles:
   UncoupledIsoReg_usage_guide: UncoupledIsoReg_usage_guide.html
-last_built: 2021-12-10T09:30Z
+last_built: 2021-12-10T09:52Z
 urls:
   reference: https://jan-imbi.github.io/UncoupledIsoReg/reference
   article: https://jan-imbi.github.io/UncoupledIsoReg/articles
