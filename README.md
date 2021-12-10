@@ -26,5 +26,5 @@ remotes::install_github("jan-imbi/UncoupledIsoReg")
 You can check out useage instructions: [https://jan-imbi.github.io/UncoupledIsoReg/articles/UncoupledIsoReg_usage_guide.html](https://jan-imbi.github.io/UncoupledIsoReg/articles/UncoupledIsoReg_usage_guide.html).
 
 
-For some details on numerical aspects, see here: [**todo**](https://jan-imbi.github.io/UncoupledIsoReg/).
+For some details on numerical aspects, see here: [https://jan-imbi.github.io/UncoupledIsoReg/articles/Numerical_considerations.pdf](https://jan-imbi.github.io/UncoupledIsoReg/).
 
