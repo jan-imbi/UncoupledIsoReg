@@ -11,6 +11,13 @@ Based on algorithm from arXiv:1806.10648 by Rigollet and Weed.
 \details{
 \code{UncoupledIsoReg} is a package for uncoupled isotonic regression.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://jan-imbi.github.io/UncoupledIsoReg}
+}
+
+}
 \author{
 \strong{Maintainer}: Jan Meis \email{meis@imbi.uni-heidelberg.de}
 

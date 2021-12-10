@@ -6,6 +6,11 @@
 
 using namespace Rcpp;
 
+#ifdef RCPP_USE_GLOBAL_ROSTREAM
+Rcpp::Rostream<true>&  Rcpp::Rcout = Rcpp::Rcpp_cout_get();
+Rcpp::Rostream<false>& Rcpp::Rcerr = Rcpp::Rcpp_cerr_get();
+#endif
+
 // Wp
 double Wp(const arma::colvec& mu_vals, const arma::colvec& mu_probs, const arma::colvec& nu_vals, const arma::colvec& nu_probs, const double& p);
 RcppExport SEXP _UncoupledIsoReg_Wp(SEXP mu_valsSEXP, SEXP mu_probsSEXP, SEXP nu_valsSEXP, SEXP nu_probsSEXP, SEXP pSEXP) {
