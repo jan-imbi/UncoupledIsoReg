@@ -25,6 +25,11 @@ jobs:
         with:
           extra-packages: rcmdcheck
 
+      - uses: r-lib/actions/setup-pandoc@v1
+        with:
+          pandoc-version: '2.7.3' # The pandoc version to download (if necessary) and use.
+      - run: echo "# Test" | pandoc -t html
+
       - uses: r-lib/actions/setup-tinytex@v1
       - run: tlmgr --version
 

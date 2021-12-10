@@ -10,7 +10,7 @@
 
 This R package implements the algorithm proposed by [Rigollet & Weed in their 2019 paper](https://doi.org/10.1093/imaiai/iaz006) to
 solve the uncoupled isotonic regression problem for normal and Bernoulli errors. You can read about the theory for the Bernoulli
-error case in our paper: (Meis J., Mammen E. (2021) Uncoupled Isotonic Regression with Discrete Errors. In: Daouia A., Ruiz-Gazen A. (eds) Advances in Contemporary Statistics and Econometrics. Springer, Cham.)[https://doi.org/10.1007/978-3-030-73249-3_7]
+error case in our paper: [Meis J., Mammen E. (2021) Uncoupled Isotonic Regression with Discrete Errors. In: Daouia A., Ruiz-Gazen A. (eds) Advances in Contemporary Statistics and Econometrics. Springer, Cham.](https://doi.org/10.1007/978-3-030-73249-3_7)
 
 
 ## Installation
