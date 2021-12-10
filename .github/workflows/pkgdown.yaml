@@ -28,6 +28,9 @@ jobs:
           extra-packages: pkgdown
           needs: website
 
+      - uses: r-lib/actions/setup-tinytex@v1
+      - run: tlmgr --version
+
       - name: Deploy package
         run: |
           git config --local user.name "$GITHUB_ACTOR"

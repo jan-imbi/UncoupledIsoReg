@@ -8,7 +8,7 @@
 [![Codecov test coverage](https://codecov.io/gh/jan-imbi/UncoupledIsoReg/branch/master/graph/badge.svg)](https://app.codecov.io/gh/jan-imbi/UncoupledIsoReg?branch=master)
 <!-- badges: end -->
 
-This R package implements the algorithm proposed by [Rigollet & Weed in their 2019 paper](https://doi.org/10.1093/imaiai/iaz006) to solve the uncoupled isotonic regression problem.
+This R package implements the algorithm proposed by [Rigollet & Weed in their 2019 paper](https://doi.org/10.1093/imaiai/iaz006) to solve the uncoupled isotonic regression problem. You can check out an example
 
 
 ## Installation

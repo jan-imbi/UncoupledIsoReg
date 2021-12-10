@@ -1,0 +1,21 @@
+citHeader("To cite UncoupledIsoReg in publications use:")
+
+citEntry(
+  entry="InBook",
+  title="Uncoupled Isotonic Regression with Discrete Errors",
+  author=personList(as.person("Jan Meis"), as.person("Enno Mammen")),
+  editor=personList(as.person("Abdelaati Daouia"), as.person("Anne Ruiz-Gazen")),
+  booktitle="Advances in Contemporary Statistics and Econometrics",
+  chapter="Nonparametric Statistics and Econometrics",
+  pages="123--135",
+  year="2021",
+  publisher="Springer International Publishing",
+  doi="10.1007/978-3-030-73249-3_7",
+  address="Cham",
+  isbn="978-3-030-73249-3",
+  paste("Jan Meis and Enno Mammen (2021)",
+        "Uncoupled Isotonic Regression with Discrete Errors.",
+        "In: Daouia A., Ruiz-Gazen A. (eds) Advances in Contemporary Statistics and Econometrics.",
+        "Springer, Cham.",
+        "https://doi.org/10.1007/978-3-030-73249-3_7")
+)
