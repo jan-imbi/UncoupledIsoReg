@@ -7,3 +7,5 @@
 ^\.github$
 ^meta/$
 ^codecov\.yml$
+^doc$
+^Meta$

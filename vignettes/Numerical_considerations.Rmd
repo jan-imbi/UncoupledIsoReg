@@ -1,0 +1,24 @@
+---
+title: "Numerical considerations"
+header-includes:
+   - \usepackage{pdfpages}
+   - \AtBeginDocument{\let\maketitle\relax}
+pkgdown:
+  as_is: true
+  extension: pdf
+  title: Numerical considerations
+
+output: pdf_document
+
+vignette: >
+  %\VignetteIndexEntry{Numerical considerations}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+  +
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\includepdf[pages=-, fitpaper=true]{numerical_considerations_src.pdf}

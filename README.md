@@ -8,7 +8,9 @@
 [![Codecov test coverage](https://codecov.io/gh/jan-imbi/UncoupledIsoReg/branch/master/graph/badge.svg)](https://app.codecov.io/gh/jan-imbi/UncoupledIsoReg?branch=master)
 <!-- badges: end -->
 
-This R package implements the algorithm proposed by [Rigollet & Weed in their 2019 paper](https://doi.org/10.1093/imaiai/iaz006) to solve the uncoupled isotonic regression problem. You can check out an example
+This R package implements the algorithm proposed by [Rigollet & Weed in their 2019 paper](https://doi.org/10.1093/imaiai/iaz006) to
+solve the uncoupled isotonic regression problem for normal and Bernoulli errors. You can read about the theory for the Bernoulli
+error case in our paper: (Meis J., Mammen E. (2021) Uncoupled Isotonic Regression with Discrete Errors. In: Daouia A., Ruiz-Gazen A. (eds) Advances in Contemporary Statistics and Econometrics. Springer, Cham.)[https://doi.org/10.1007/978-3-030-73249-3_7]
 
 
 ## Installation
@@ -21,6 +23,8 @@ remotes::install_github("jan-imbi/UncoupledIsoReg")
 
 ## Example
 
-You can check out an example here: [https://jan-imbi.github.io/UncoupledIsoReg/](https://jan-imbi.github.io/UncoupledIsoReg/)
+You can check out useage instructions: [https://jan-imbi.github.io/UncoupledIsoReg/articles/UncoupledIsoReg_usage_guide.html](https://jan-imbi.github.io/UncoupledIsoReg/articles/UncoupledIsoReg_usage_guide.html).
 
+
+For some details on numerical aspects, see here: [**todo**](https://jan-imbi.github.io/UncoupledIsoReg/).
 
