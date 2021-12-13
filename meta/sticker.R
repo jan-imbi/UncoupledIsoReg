@@ -18,4 +18,4 @@ p <- ggplot(dat, aes(x=x, y=Y_no_error)) +
 
 sticker(p, package="UncoupledIsoReg", p_size=15, s_x=1, s_y=.75, s_width=1.3, s_height=1,
         h_color = "#3234a8",
-        filename="inst/figures/sticker.png")
+        filename="man/figures/sticker.png")
