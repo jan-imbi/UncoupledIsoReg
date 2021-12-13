@@ -4,7 +4,7 @@ pkgdown_sha: ~
 articles:
   Numerical_considerations: Numerical_considerations.pdf
   UncoupledIsoReg_usage_guide: UncoupledIsoReg_usage_guide.html
-last_built: 2021-12-10T12:02Z
+last_built: 2021-12-13T21:18Z
 urls:
   reference: https://jan-imbi.github.io/UncoupledIsoReg/reference
   article: https://jan-imbi.github.io/UncoupledIsoReg/articles
